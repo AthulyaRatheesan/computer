@@ -1,1 +1,7 @@
 computer is an electronic device
+<html>
+<head></head>
+<title></title>
+<body></body>
+</html>
+     
